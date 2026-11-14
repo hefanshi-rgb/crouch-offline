@@ -1,4 +1,0 @@
-Part size: 2097152 bytes (2 MiB); final part can be shorter.
-This is the same crouch_refseq_payload.tar.gz archive, split more finely.
-Upload this whole folder into crouch-offline/refseq-gw18-2mb on main.
-Use the updated 2 MiB crouch_fetch_parts.sh in Windows Git Bash.
