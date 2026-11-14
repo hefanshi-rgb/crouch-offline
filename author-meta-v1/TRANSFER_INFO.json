@@ -1,0 +1,37 @@
+{
+  "archive": "crouch_author_meta.tar.gz",
+  "SHA256": "b9bb55f9539a49806997c4bd27652b6c41a2a729ef12d252f4f4fbb02e3aa922",
+  "bytes": 4909962,
+  "parts": 3,
+  "cells": 139134,
+  "columns": [
+    "cellId",
+    "cell_type",
+    "broad_cell_type",
+    "orig_ident",
+    "percent_mito",
+    "sample",
+    "age",
+    "area",
+    "percent_ribo",
+    "cluster_number",
+    "ncount_rna",
+    "nfeature_rna",
+    "integrated_snn_res_0_5",
+    "seurat_clusters",
+    "integrated_snn_res_0_2",
+    "nCount_RNA",
+    "nFeature_RNA"
+  ],
+  "age_counts": {
+    "GW22": 24888,
+    "GW23": 12828,
+    "GW15": 28674,
+    "GW17": 24483,
+    "GW20": 11552,
+    "GW18": 13906,
+    "NGW23": 22803
+  },
+  "scope": "Complete author metadata, all samples and ages; no expression matrix",
+  "meta_SHA256": "7c1618aeeaa52911ae347c3ec7c05e3503b5d2442c3ba0f0563e1c8ce2d884b5"
+}
