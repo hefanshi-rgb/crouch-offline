@@ -4,3 +4,4 @@ author-expression-check-v1/*.part.* -text
 /gw18-legacy-reference-v1/*.part.* -text
 /gw18-legacy-full-v1/*.part.* -text
 /legacy-five-v1/*.part.* -text
+/ngw23-reference-v1/*.part.* -text
